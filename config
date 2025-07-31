@@ -1,0 +1,4 @@
+Host github-luffy
+    HostName github.com
+    User git
+    IdentityFile C:\Users\prath\.ssh\id_ed25519
